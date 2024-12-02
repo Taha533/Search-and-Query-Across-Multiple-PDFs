@@ -50,8 +50,7 @@ pip install -r requirements.txt
 1. Clone this repository:  
 
    ```bash  
-   git clone https://github.com/your-username/search-query-pdfs.git  
-   cd search-query-pdfs  
+   git clone https://github.com/Taha533/Search-and-Query-Across-Multiple-PDFs.git 
    ```  
 
 2. Install the required dependencies as mentioned above.  
