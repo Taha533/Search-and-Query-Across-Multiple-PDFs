@@ -75,7 +75,7 @@ pip install -r requirements.txt
 3. Receive an AI-generated response with precise answers based on the uploaded documents.  
 
 ## Demo  
-
+![Project Screenshot](./imagese/qa_system_ui.png) 
 Provide screenshots or a link to a demo if available.  
 
 ## Contributions  
