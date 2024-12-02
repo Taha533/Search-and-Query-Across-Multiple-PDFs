@@ -78,14 +78,6 @@ pip install -r requirements.txt
 ![Project Screenshot](./images/qa_system_ui.png) 
 Provide screenshots or a link to a demo if available.  
 
-## Contributions  
-
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.  
-
-## License  
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
 ---  
 
 Feel free to adapt the content or structure as needed!
