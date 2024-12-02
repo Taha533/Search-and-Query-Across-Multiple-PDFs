@@ -76,7 +76,6 @@ pip install -r requirements.txt
 
 ## Demo  
 ![Project Screenshot](./images/qa_system_ui.png) 
-Provide screenshots or a link to a demo if available.  
 
 ---  
 
